@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\bin\Debug\AuMoney.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\bin\Debug\AuMoney.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\bin\Debug\AuMoney.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\AuMoney.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\AuMoney_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\AuMoney_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\AuMoney.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\AuMoney.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\AuMoney.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\AuMoney.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AuMoney\AuMoney\obj\Debug\AuMoney.pdb

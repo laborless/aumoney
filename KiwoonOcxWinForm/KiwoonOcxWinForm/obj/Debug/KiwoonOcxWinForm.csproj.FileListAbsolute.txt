@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\bin\Debug\KiwoonOcxWinForm.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\bin\Debug\KiwoonOcxWinForm.exe
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\bin\Debug\KiwoonOcxWinForm.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\bin\Debug\Interop.KHOpenAPILib.dll
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\bin\Debug\AxInterop.KHOpenAPILib.dll
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\KiwoonOcxWinForm.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\Interop.KHOpenAPILib.dll
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\AxInterop.KHOpenAPILib.dll
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\KiwoonOcxWinForm.csproj.ResolveComReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\KiwoonOcxWinForm.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\KiwoonOcxWinForm.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\KiwoonOcxWinForm.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\KiwoonOcxWinForm.exe
+c:\users\administrator\documents\visual studio 2015\Projects\KiwoonOcxWinForm\KiwoonOcxWinForm\obj\Debug\KiwoonOcxWinForm.pdb
